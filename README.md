@@ -1,7 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> **Hey there, I'm Rendi Fauzi**
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="💻" width="25" height="25" /> **Tech Arsenal** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="25" height="25" />
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=laravel,django,react,nodejs,php,python,javascript,typescript,mysql,postgresql,docker,git,github,vscode,figma&theme=dark" />
